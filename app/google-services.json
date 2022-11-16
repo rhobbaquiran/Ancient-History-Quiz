@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "674275903579",
+    "firebase_url": "https://cselec08-baquirantupaz-finals-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "cselec08-baquirantupaz-finals",
+    "storage_bucket": "cselec08-baquirantupaz-finals.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674275903579:android:6ca2b413021c408ae2d77e",
+        "android_client_info": {
+          "package_name": "com.example.baquiran_tupaz_final_project_quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674275903579-191fcm0blkfjiuaf3kvdk0eiv8rf8hjr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.baquiran_tupaz_final_project_quiz",
+            "certificate_hash": "8c554a768bfc933142eeb87a83b3e8cfc22d9c28"
+          }
+        },
+        {
+          "client_id": "674275903579-69c8jlgdpbetmai34uocr66qbcvs27ki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-5eBcxA5ppeCirVJgHM_JKYKyPXi01LI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674275903579-69c8jlgdpbetmai34uocr66qbcvs27ki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
